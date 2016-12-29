@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="343f44070d064aebfd0de0457f55280e18f49c2b">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_94ffd64fde6edc44f03a887aa5540299e7cd2eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_0218ac2dcbcd4e21ae4b9dfbabbe820196da7bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f8bec8554a86c0617929b65e3717e6a9de111421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_9fe1ae69677f4712719e75a73ba6be820396f216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_eb93710827e3be01945544d684aeb9e74faf53e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_804a5f81b919d34f8b3f7cb14027d606ab48a226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_2abfa7717f1ba4fc9a619be2d278472e680cfe30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_024bf0f40cf858fc71357c493bb884a308748ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b13a13b350116c0001d2a60fe33afd717494082a">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-0.4.0_85f2804e5af3795640c34c63b66cc9e98e0a5de3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8ea6e17cdded390e203c538ae391f4cbba7f02f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_ff8a300c652f6958a5ba0743906320b0f1b13a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_0259043c66114a9b29e24ffc3ce67c5b0aebe219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_061eeddb66f83d38a699a4680115b90b2b578b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.1\11ea7eeda00b1bb92accba250ee7c8740bdebc19\firebase-client-jvm-2.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11ea7eeda00b1bb92accba250ee7c8740bdebc19">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.1_2c9ec488ce39d21cd16c17cfdea67e9ae0a0cbff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_e3d70f7f749ea1f932c1fe5c017c93b896c20dbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_1b187af1010dcd1e7a92fd2cb039ecd7360ae52d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_82eff5fc566fd55fc0806b49f51e0f27664d0070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_f4b64a56824b3d01bccccbb7332c3c78778bcebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_4bcb90b0bcd38e1920a2cbda0da2e47087dae417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_66d5db397d09dec27a5a783ef752752bd0510480\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_bfbb3b66bd4829fec268e4f44a1f543087d2abe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.2.1_c80c0cce1d69774cd1abd1f51b13a42fb52fa04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebdc036fe045b8e2e7ee93f8127ddd297a4100c3">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_801a29af4ee57acf50b0cb8799a964c597fc580e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_d4b2ecb008196548612b0fd8840bb285a2008488\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_ca0e08aae70df89ce1a7e54d54c0005e4577a5d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_6ce1414185d5b9ba25fc6a1dd11d5ce83bf2de18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3591a47f8fcb7a8e91d0368d4de65111e52e2da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_0efba98044decca2c3c036e618447bbaba795fdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_bff3c8e5c4636422e16437229103d78c320daf96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.11.0_e846276bf7f6c6083c653deceabf992be2c23e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_948eec202d3b9f8578d377dc80fffe9953238a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_8e0f39b62d8f4fa9845b5100988b557ead140c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="583ed5613304fc01f7dba07c81fd124bd55896db">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-0.4.0_b1187f639409a79cb41c5c8df00710b012d0d6fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_016dd48c2425cb6049ed908ebe32a84dafad3af5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_c0f7d6a31884927aa605570a84fdedbad4de5954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_87dc5ecfbd9f82542388fb9fb00747330ac7eac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_ef5a1da7ae7810130f37b908a7f8b536403ef936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f10dba4adfe6aa9735ce68ff12bcc2b5a5ceebf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.1\8c94ae916de454be497782505e3e6fd437a28b95\firebase-client-android-2.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c94ae916de454be497782505e3e6fd437a28b95">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.1_240bff3dfeec6c355fa3a9bb237b2ecb76906ec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_6ad3dd92edbcc72b3dc4dc15fcb2f24447787c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_8942896f17e7ab71bfaf4502d6fef6851dafa162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_e9f53a1ee122573efedf578ed70e75a29aa98655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_9b62963b8710801c6cb9413ff7da3fc80e80ab08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_f118f6bcf9d1ff7893a6ed9d4824e25a225b3a54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_07019e0a810a6d17d93401e85b6c1ad9e39b3e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_5df8db2d8fdac65c72dbbdb6080bb627314ae279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_86c357004b347f7d58dd68da0febd37fa48a771b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_8f6af5b37b69de3edaccd9f6688dd743b448f3f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_f3c5c9b549c9873eddf8728b22a92f98d24f0e90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="C:\Users\acer\Desktop\Github\FireBlog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.0_c339a80d2d80161bb2c2da32175864453e02caf7\classes.dex" />
+    </item>
+
+</items>

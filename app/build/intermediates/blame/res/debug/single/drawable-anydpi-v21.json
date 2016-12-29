@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_twitter.xml",
+        "source": "C:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.4.0\\res\\drawable-anydpi-v21\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_google.xml",
+        "source": "C:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.4.0\\res\\drawable-anydpi-v21\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_facebook.xml",
+        "source": "C:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.4.0\\res\\drawable-anydpi-v21\\ic_facebook.xml"
+    }
+]

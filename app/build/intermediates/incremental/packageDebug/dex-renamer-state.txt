@@ -1,0 +1,7 @@
+#Wed Dec 28 23:08:57 PST 2016
+base.0=C\:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_801a29af4ee57acf50b0cb8799a964c597fc580e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_94ffd64fde6edc44f03a887aa5540299e7cd2eb9\\classes.dex
+base.1=C\:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_94ffd64fde6edc44f03a887aa5540299e7cd2eb9
+file.0=C\:\\Users\\acer\\Desktop\\Github\\FireBlog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_801a29af4ee57acf50b0cb8799a964c597fc580e\\classes.dex

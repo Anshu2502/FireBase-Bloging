@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="rt.tea.com.fireblog.test">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="25" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="rt.tea.com.fireblog"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for rt.tea.com.fireblog"/>
+</manifest>
